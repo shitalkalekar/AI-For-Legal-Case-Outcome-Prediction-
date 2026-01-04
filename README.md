@@ -42,9 +42,3 @@ This system is useful for legal researchers, students, and professionals who wan
 - **Models Used:**  
   - BERT (Named Entity Recognition)  
   - Flan-T5 (Text Summarization)
-
----
-
-## 📂 Project Structure
-
-<img width="1911" height="1008" alt="image" src="https://github.com/user-attachments/assets/8084548a-bd85-4934-b164-cda787b1ff08" />
